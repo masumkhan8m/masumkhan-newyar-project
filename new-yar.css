@@ -1,0 +1,70 @@
+.shd{
+    background-image:url(images/Banner\ Image.png) ;
+    width: 1300px;
+    height: 600px;
+    align-items: center;
+    border-radius: 16px;
+    margin: auto;
+    
+
+
+} 
+.happy{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 160px;
+}
+.new{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 50px;
+
+}
+.off{
+    color: #F00;
+    text-align: center;
+    
+    font-size: 88px;
+   
+    font-weight: 700;
+    
+}
+.our{
+    color: #F00;
+    font-size: 24px; 
+    font-weight: 500;
+    text-align: center;
+}
+.all{
+    color: #070211;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+}
+.section-to{
+    background-color: #FFF;; 
+    width: 1600px;
+    /* height: 7335px; */
+    margin: auto;
+    
+}
+.yar{
+margin: 50px 300px 120px;
+width: 802.9px;
+height: 500px;
+
+}
+/* section-to niy kaj korbo */
+.shd-to{
+    background-image: url(images/Vectorrr.png);
+    width: 1320px;
+height: 600px;
+align-items: center;
+border-radius: 16px;
+margin: auto;
+
+}
